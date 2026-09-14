@@ -195,7 +195,7 @@ I'm currently exploring career paths in:
 
 ## 🌐 Connect With Me
 
-💻 **GitHub:** [@yousefmahmood974](https://github.com/yousefmahmood974)
+💻 **GitHub:** 
 
 🌐 **Portfolio:** Coming Soon 🚧
 
