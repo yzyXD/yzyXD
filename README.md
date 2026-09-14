@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yousef Mahmoud
+# Hi 👋, I'm yzy
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E73F3&width=500&lines=Computer+%26+Programming+Enthusiast;Python+Developer+%7C+Web+Development;PC+Hardware+%26+IT+Troubleshooting;Networking+%7C+Linux+%7C+Cybersecurity" alt="Typing SVG" />
